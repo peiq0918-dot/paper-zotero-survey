@@ -1,0 +1,17 @@
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+.DS_Store
+
+# Zotero local data and generated working files
+zotero.sqlite*
+storage/
+translators/
+styles/
+locate/
+logs/
+plugins/
+cir_zotero_downloads.py
+organize_cir_pdfs_zotero.py
